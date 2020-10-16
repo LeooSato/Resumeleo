@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "daca9de58d8b108ac5077f4a4e222a84",
+    "revision": "d8e74a2818a05dc4b4460c3e747051d8",
     "url": "/resumeleo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resumeleo/static/css/2.a4567992.chunk.css"
   },
   {
-    "revision": "c2e3604324dda2e46a9c",
+    "revision": "a91911e4bb7390ffcd56",
     "url": "/resumeleo/static/css/main.a8e75bf3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resumeleo/static/js/2.533a62cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2e3604324dda2e46a9c",
-    "url": "/resumeleo/static/js/main.173e6614.chunk.js"
+    "revision": "a91911e4bb7390ffcd56",
+    "url": "/resumeleo/static/js/main.2e54c9d9.chunk.js"
   },
   {
     "revision": "322b971ca1aa59072236",
