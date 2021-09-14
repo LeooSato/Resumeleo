@@ -19,6 +19,10 @@ const myStyles4: CSSProperties = {
   width:'40%',
 } as React.CSSProperties
 
+const myStyles45: CSSProperties = {
+  width:'45%',
+} as React.CSSProperties
+
 const myStyles15: CSSProperties = {
   width:'15%',
 } as React.CSSProperties
@@ -28,14 +32,11 @@ function Resume(){
     <aside>
       <header>
         <h2>Leonardo Kenji Sato</h2>
-        <p className="wellcome">Welcome to my Resume!</p>
+        <p className="wellcome">Welcome to my Skills!!</p>
         <p>Technician in Web developing but this you already know.</p> 
-        <p>I'm graduating in Bacharel in Computer Science at UFABC at first four-month.</p>
-        <p>My english i'm happy to say is pretty nice</p>
-        <p>Some languages and 'frame-works' that I have some knowledge are HTML,CSS,Python,JS,ReactJs,NODE,PHP,Mysql.</p>
-        <div className="progress">
-  <div className="progress-bar bg-dark" style={myStyles}>PHP 60%</div></div>
-  <br/>
+        <p>I'm graduating in Bacharel in Sciences and Technology at UFABC at thirdy four-month.</p>
+        <p>My english I'm pretty happy to say is an awesome level</p>
+        <p>Some languages and 'frame-works' that I have some knowledge are</p>
   <div className="progress">
   <div className="progress-bar bg-dark" style={myStyles7}>HTML 70%</div></div>
   <br/>
@@ -46,10 +47,13 @@ function Resume(){
   <div className="progress-bar bg-dark" style={myStyles}>MySql 60%</div></div>
   <br/>
   <div className="progress">
-  <div className="progress-bar bg-dark" style={myStyles4}>REACTJS 40%</div></div>
+  <div className="progress-bar bg-dark" style={myStyles45}>Angular 45%</div></div>
   <br/>
   <div className="progress">
-  <div className="progress-bar bg-dark" style={myStyles3}>NODEJS 40%</div></div>
+  <div className="progress-bar bg-dark" style={myStyles45}>Spring 45%</div></div>
+  <br/>
+  <div className="progress">
+  <div className="progress-bar bg-dark" style={myStyles3}>PHP 30%</div></div>
   <br/>
   <div className="progress">
   <div className="progress-bar bg-dark" style={myStyles15}>Python 15%</div></div>
